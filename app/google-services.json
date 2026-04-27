@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670138655271",
+    "project_id": "smartvendor-2f8fb",
+    "storage_bucket": "smartvendor-2f8fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670138655271:android:09aecaabfda95860d92402",
+        "android_client_info": {
+          "package_name": "com.example.smartvendor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRa6ucLhbvcMiwCmRa98zh3JSBuarJ-xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
